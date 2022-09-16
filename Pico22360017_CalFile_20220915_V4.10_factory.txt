@@ -1,0 +1,6 @@
+SensorCode,SerialNumber,UniqueID,FirmwareVersion,BuildNumber
+FCD7-756-576,222857115,2614204371111574231,4.10,2
+topR1date,bottomR2date,offsetdate
+2000-12-31 15:00:00,2000-12-31 15:00:00,2000-12-31 15:00:00
+R1,pH1,temp1,salinity1,R2,pH2,temp2,salinity2,offset,dphi_ref,att_coeff,bkgAmpl,bkgdDphi,dsf_dye,dtf_dye,pka,slope,bottom_t,top_t,slope_t,pka_t,pka_is1,pka_is2
+1.722488,0.0,20.0,7.5,0.066777,14.0,20.0,7.5,0.0,57.8,0.0339,0.044,0.0,0.9047,-0.00567,8.082,1.034,-0.001108,-0.000803,0.0,-0.01628,0.97,0.126
